@@ -1,0 +1,28 @@
+.Todolist {
+    width: 450px;
+    background-color: rgb(255, 93, 93);
+    color: white;
+    margin: 0 auto;
+    box-shadow: 10px 10px 10px 0 rgba(0, 0, 0, 0.25);
+}
+
+.Todolist-header {
+    border-bottom: 1px solid white;
+    width: 350px;
+    margin: 0 auto;
+    padding-top: 20px;
+    margin-top: 100px;
+}
+
+.Todolist-header > h1 {
+    margin: 0;
+}
+
+.Todolist-header > p {
+    margin: 0 0 10px 0;
+}
+
+.Todolist-list {
+    list-style-type: none;
+    padding: 0;
+}
